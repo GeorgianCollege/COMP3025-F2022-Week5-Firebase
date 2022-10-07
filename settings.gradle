@@ -1,0 +1,10 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "COMP3025-F2022-Week5-Firebase"
+include ':app'
